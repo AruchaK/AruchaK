@@ -12,9 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin"/>
   </a>
   <br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Annerez&icon=0&color=0"/>
-  </a>
+  ![](https://komarev.com/ghpvc/?username=AruchaK)
   <img src="https://wakatime.com/badge/user/5def2b97-aeb5-4e19-a731-8b627c7f59a6.svg" alt="anner" />
 </p>
 
