@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anner!</h1>
-<h3 align="center">A random Information Technology student @KMITL</h3>
+<h3 align="center">A random student @KMITL</h3>
 
 <p align="center">
   <a href="aruchakehm@gmail.com">
@@ -8,9 +8,9 @@
   <a href="http://discordapp.com/users/363299037962567680">
     <img src="https://img.shields.io/badge/Discord-chat%20me-5865f2?logo=discord&logoColor=f5f5f5"/>
   </a>
-  <a href="https://www.linkedin.com/in/arucha-khematharonon-6289ba233/">
+<!--   <a href="https://www.linkedin.com/in/arucha-khematharonon-6289ba233/">
     <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me-2a66bc?logo=linkedin"/>
-  </a>
+  </a> -->
   <br/>
   <a>
     <img src="https://komarev.com/ghpvc/?username=AruchaK" />
