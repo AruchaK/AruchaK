@@ -65,7 +65,7 @@ Some <b>sleepless</b> [developer](https://en.wikipedia.org/wiki/Developer) who l
 <img src="https://media.tenor.com/brYEi1qIY8IAAAAM/mizuki-akiyama-cupcake.gif" width="150" alt="my beloved" title="my beloved">
 <img src="https://media1.tenor.com/m/joM_MrirkvkAAAAC/mizuki-mizuki-akiyama.gif" width="150" alt="my beloved" title="my beloved"><br>
 
-<b>^^^ MIZUKI AKIYAMA MY BELOVED ^^^</b>
+<b>^^^ AKIYAMA MIZUKI MY BELOVED ^^^</b>
 </div>
 
 
