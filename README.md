@@ -44,7 +44,7 @@ Some <b>sleepless</b> [developer](https://en.wikipedia.org/wiki/Developer) who l
 
 - 📱 Mobile Application Development ( [React Native](https://reactnative.dev/) ) <br>
 
-- 🤖 Machine Learning ( Tabular Data, Data Science, Quantitative Analysis (?) ) <br>
+- 🤖 Machine Learning ( Any buzz word you find on social media ) <br>
 
 <br>
 
