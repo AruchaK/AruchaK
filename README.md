@@ -20,7 +20,7 @@
 
 <br>
 
-Some <b>sleepless</b> [developer](https://en.wikipedia.org/wiki/Developer) who love discovering new things and building some silly projects that keep him getting less [sleep](https://www.urbandictionary.com/define.php?term=sleep) every day.
+Some <b>sleepless</b> [developer](https://en.wikipedia.org/wiki/Developer) who loves discovering new things and building some silly projects that keep him getting less [sleep](https://www.urbandictionary.com/define.php?term=sleep) every day.
 
 <br>
 
