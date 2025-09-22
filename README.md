@@ -57,9 +57,9 @@ Some <b>sleepless</b> [developer](https://en.wikipedia.org/wiki/Developer) who l
 <div align="center">
   
 <img src="https://media1.tenor.com/m/joM_MrirkvkAAAAC/mizuki-mizuki-akiyama.gif" width="150" alt="my beloved" title="my beloved">
-<img src="https://static.wikia.nocookie.net/a414ec65-17aa-40ac-976d-a63e1d9c56dd" width="150" alt="my beloved" title="my beloved">
+<img src="https://media.tenor.com/brYEi1qIY8IAAAAM/mizuki-akiyama-cupcake.gif" width="150" alt="my beloved" title="my beloved">
 <img src="https://media1.tenor.com/m/hLA-DwtdKr4AAAAd/mizuki-akiyama.gif" width="150" alt="my beloved" title="my beloved">
-<img src="https://static.wikia.nocookie.net/a414ec65-17aa-40ac-976d-a63e1d9c56dd" width="150" alt="my beloved" title="my beloved">
+<img src="https://media.tenor.com/brYEi1qIY8IAAAAM/mizuki-akiyama-cupcake.gif" width="150" alt="my beloved" title="my beloved">
 <img src="https://media1.tenor.com/m/joM_MrirkvkAAAAC/mizuki-mizuki-akiyama.gif" width="150" alt="my beloved" title="my beloved"><br>
 
 <b>^^^ MIZUKI AKIYAMA MY BELOVED ^^^</b>
