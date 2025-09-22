@@ -32,7 +32,7 @@ Some <b>sleepless</b> [developer](https://en.wikipedia.org/wiki/Developer) who l
 ## 🧐 What do I do?
 
 
-- 🌐 Front-end Development ( [React](https://react.dev/), [Next](https://nextjs.org/), [Vue (Nuxt)](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/) ) <br>
+- 🌐 Front-end Development ( [React](https://react.dev/), [Next](https://nextjs.org/), [Nuxt](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/) ) <br>
 
 - ⚙️ Back-end Development ( [Express](https://expressjs.com/), [Nest](https://nestjs.com/), [Hono](https://hono.dev/), [Elysia](https://elysiajs.com/) ) <br>
 
