@@ -34,13 +34,11 @@ Some <b>sleepless</b> [developer](https://en.wikipedia.org/wiki/Developer) who l
 
 - 🌐 Front-end Development ( [React](https://react.dev/), [Next](https://nextjs.org/), [Vue (Nuxt)](https://nuxt.com/), [SvelteKit](https://kit.svelte.dev/) ) <br>
 
-- ⚙️ Back-end Development ( [Express](https://expressjs.com/), [Node.js](https://nodejs.org), [Prisma](https://www.prisma.io/) ) <br>
+- ⚙️ Back-end Development ( [Express](https://expressjs.com/), [Nest](https://nestjs.com/),[Hono](https://hono.dev/), [Elysia](https://elysiajs.com/) ) <br>
 
-- 🗄️ Database Management System ( [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/) ) <br>
+- ☁️ Cloud ( [Google Cloud](https://cloud.google.com), [AWS](https://aws.amazon.com), [Huawei Cloud](https://www.huaweicloud.com/) ) <br>
 
-- ☁️ Cloud ( [Google Cloud](https://cloud.google.com), [AWS](https://aws.amazon.com) ) <br>
-
-- 🛠️ DevOps ( [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) ) <br>
+- 🛠️ DevOps ( [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [LGTM Stack](https://www.youtube.com/watch?v=1X3dV3D5EJg), [Ansible](https://docs.ansible.com/), [Terraform](https://developer.hashicorp.com/terraform), [GitHub Actions](https://github.com/features/actions), [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) ) <br>
 
 - 📱 Mobile Application Development ( [React Native](https://reactnative.dev/) ) <br>
 
