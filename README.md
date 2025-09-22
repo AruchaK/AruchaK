@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anner!</h1>
-<h3 align="center">A random student @KMITL</h3>
+<h3 align="center">A random student @ITKMITL</h3>
 
 <p align="center">
   <a href="aruchakehm@gmail.com">
