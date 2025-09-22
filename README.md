@@ -54,4 +54,15 @@ Some <b>sleepless</b> [developer](https://en.wikipedia.org/wiki/Developer) who l
 <img style="height: auto; width: 70%;" class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=anner&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaas" />
 </div> <br />
 
+<div align="center">
+  
+<img src="https://media1.tenor.com/m/joM_MrirkvkAAAAC/mizuki-mizuki-akiyama.gif" width="150" alt="my beloved" title="my beloved">
+<img src="https://static.wikia.nocookie.net/a414ec65-17aa-40ac-976d-a63e1d9c56dd" width="150" alt="my beloved" title="my beloved">
+<img src="https://media1.tenor.com/m/hLA-DwtdKr4AAAAd/mizuki-akiyama.gif" width="150" alt="my beloved" title="my beloved">
+<img src="https://static.wikia.nocookie.net/a414ec65-17aa-40ac-976d-a63e1d9c56dd" width="150" alt="my beloved" title="my beloved">
+<img src="https://media1.tenor.com/m/joM_MrirkvkAAAAC/mizuki-mizuki-akiyama.gif" width="150" alt="my beloved" title="my beloved"><br>
+
+<b>^^^ MIZUKI AKIYAMA MY BELOVED ^^^</b>
+</div>
+
 
