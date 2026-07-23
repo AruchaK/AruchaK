@@ -55,7 +55,7 @@ a <b>sleepless</b> [developer](https://en.wikipedia.org/wiki/Developer) who love
 </div> <br />
 
 <div align="left">
-<img style="height: auto; width: 70%;" class="img" src="https://github-stats-extended.vercel.app/api/top-langs?username=aruchak&layout=compact&hide_title=true&langs_count=6&theme=radical" />
+<img style="height: auto; width: 70%;" class="img" src="https://github-stats-extended.vercel.app/api/pin/?username=AruchaK&repo=github-readme-stats&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaas" />
 </div> <br />
 
 <br>
