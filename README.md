@@ -54,7 +54,9 @@ a <b>sleepless</b> [developer](https://en.wikipedia.org/wiki/Developer) who love
 <img style="height: auto; width: 70%;" class="img" src="https://github-stats-extended.vercel.app/api?username=aruchak&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaas" />
 </div> <br />
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anner&layout=compact&hide_title=true&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=anner&layout=compact&hide_title=true&langs_count=6&theme=radical)
+<div align="left">
+<img style="height: auto; width: 70%;" class="img" src="https://github-stats-extended.vercel.app/api/top-langs?username=anner&layout=compact&hide_title=true&langs_count=6&theme=radical" />
+</div> <br />
 
 <br>
 <br>
