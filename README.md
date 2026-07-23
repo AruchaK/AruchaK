@@ -51,7 +51,7 @@ a <b>sleepless</b> [developer](https://en.wikipedia.org/wiki/Developer) who love
 <br>
 
 <div align="left">
-<img style="height: auto; width: 70%;" class="img" src="https://github-readme-stats.vercel.app/api/wakatime?username=anner&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaas" />
+<img style="height: auto; width: 70%;" class="img" src="https://github-stats-extended.vercel.app/api?username=aruchak&langs_count=8&layout=compact&hide_border=true&bg_color=141424&title_color=e73f82&text_color=ffffff&icon_color=fdaaaas" />
 </div> <br />
 
 <br>
